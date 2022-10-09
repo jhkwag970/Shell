@@ -1,5 +1,4 @@
 <h1> ReadMe </h1>
-<hr>
 
 <ol>
  <li>Clone the file</li>
